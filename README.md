@@ -107,7 +107,7 @@ Example commands:
 
 Install this project with:
 
-- to install locally run git clone `https://github.com/Sammy3000/Redux-Intro-Project.git`
+- to install locally run git clone `git@github.com:Caren-Koroeny/React-redux-intro.git`
 - open the cloned directory with VSCode
 
 ### Run tests
