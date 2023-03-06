@@ -140,11 +140,11 @@ And For tracking linter errors in REACT files run:
 ## 👥 Author <a name="author"></a>
 
 
-👤 **Towett Sammy**
+👤 **Caren Koroeny**
 
-- GitHub: [@sam](https://github.com/Sammy3000)
-- Twitter: [@towettsam](https://twitter.com/sammy15375658)
-- LinkedIn: [@towettSammy](https://www.linkedin.com/in/towett-sammy-43476024a/)
+- GitHub: [@Caren-Koroeny](https://github.com/Caren-Koroeny)
+- Twitter: [@carensiya](https://twitter.com/home)
+- LinkedIn: [CarenSiya](www.linkedin.com/in/caren-siya-a89712180)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
